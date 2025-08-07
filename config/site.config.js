@@ -35,8 +35,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Short Link: <a href="https://bit.ly/mambocloud" target="_blank" rel="noopener noreferrer">bit.ly/mambocloud</a>'
-    'Powered by <a href="https://github.com/lyc8503/onedrive-cf-index-ng" target="_blank" rel="noopener noreferrer">onedrive-cf-index-ng</a>. Made with ❤ by kpl.lam.',
+    'Short link: <a href="https://bit.ly/mambocloud" target="_blank" rel="noopener noreferrer">bit.ly/mambocloud</a>. Made with ❤ by kpl.lam.',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
